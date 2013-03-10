@@ -1,0 +1,16 @@
+body 
+{
+	background: #666;
+	margin-top: 30px;
+	padding: 0;
+	background: url('assets/main_bcg.gif')
+}
+
+#container
+{
+	width:640px;
+	height: 480px;
+	margin: 0 auto;
+	border: 2px solid #fff;
+	background: url('assets/background.jpg')
+}

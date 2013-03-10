@@ -1,0 +1,21 @@
+CACHE MANIFEST
+#version: 6
+
+index.html
+styles.css
+kinetic.min.js
+game.js
+assets/background.jpg
+assets/cover.png
+assets/doctor_bad.png
+assets/doctor_good.png
+assets/gear.png
+assets/main_bcg.gif
+assets/bottles/bottle_red.png
+assets/bottles/bottle_yellow.png
+assets/bottles/bottle_green.png
+assets/bottles/bottle_blue.png
+assets/pills/pill_red.png
+assets/pills/pill_yellow.png
+assets/pills/pill_green.png
+assets/pills/pill_blue.png
